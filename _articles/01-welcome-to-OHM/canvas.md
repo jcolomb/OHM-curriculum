@@ -29,7 +29,7 @@ To make an Open Hardware Canvas, you’ll fill a one-page template with informat
 As an example of a filled out canvas looks like, take a look at the image below, where the developers of JeanCloud (a new project under development) have filled it out.
 
 
-<img src="../../../_site/img/2022-03-20_OH-canvas-JeanCloud.png">
+<img src="../../../img/2022-03-20_OH-canvas-JeanCloud.png">
 
 
 
